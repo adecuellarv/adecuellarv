@@ -45,20 +45,30 @@
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,electron,tailwind,bootstrap&theme=dark" />
+<br/>
+<sub>React Native · PWA · Material UI · PrimeReact</sub>
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,dotnet,python,django,spring&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,dotnet,java,spring,python,django&theme=dark" />
+<br/>
+<sub>CodeIgniter · Sequelize · Entity Framework</sub>
 
 **Bases de datos & Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,dynamodb,aws,firebase,supabase&theme=dark" />
-
-**WordPress, IA & Automatización**
+<img src="https://skillicons.dev/icons?i=mysql,postgres,aws,firebase,supabase&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=wordpress,woocommerce,openai,git&theme=dark" />
+<sub>DynamoDB · S3 · SQL Server · AWS SDK</sub>
+
+**APIs, herramientas & IA**
+<br/>
+<img src="https://skillicons.dev/icons?i=graphql,redux,jest,git,wordpress&theme=dark" />
 <img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="48"/>
+<br/>
+<sub>Shopify · Prompt Engineering · AI-assisted development</sub>
 
 </div>
 
@@ -122,9 +132,9 @@ Chatbot conversacional conectado a OpenAI vía WhatsApp para automatizar proceso
 
 **🔧 Control Central Car**
 <br/>
-Plataforma de gestión para talleres mecánicos: seguimiento de vehículos, diagnósticos y clientes.
+App móvil y plataforma web de gestión para talleres mecánicos: seguimiento de vehículos, diagnósticos y clientes.
 <br/>
-`React` `React Native` `Supabase`
+`React` `React Native` `Firebase`
 
 </td>
 <td width="50%">
@@ -147,21 +157,35 @@ Plataforma de gestión empresarial con facturación, gastos, roles y reportes fi
 
 </div>
 
+<details>
+<summary><b>🧩 Otros proyectos & integraciones</b></summary>
+<br/>
+
+- **PEMEX** — Frontend del sistema de gestión de demandas con `Vue.js`
+- **Plataforma de reservas** — Arquitectura y backend con `Supabase` `PostgreSQL`
+- **Hasbro City & KidZania** — Apps de escritorio con `Electron`
+- **Sistema de alertas de emergencia para campus** — `Laravel` + integración con APIs móviles
+- **Pasarelas de pago** — Integración de `PayPal` `Stripe` `Mercado Pago` `OpenPay`
+- **Plataforma de farmacias** — APIs en `Java` para administración de estatus de pedidos
+- **Plataforma contable y fiscal** — `C#/.NET` `PostgreSQL` `GraphQL` `AWS`
+
+</details>
+
 <br/>
 
 ## 📈 Trayectoria profesional
 
 <table>
-<tr><td>🟣</td><td><b>Adeev</b> (Freelance) — Full Stack Developer</td><td align="right"><i>2016 – Presente</i></td></tr>
-<tr><td>🔵</td><td><b>OCCMundial</b> — Full Stack Developer Senior</td><td align="right"><i>2023 – 2024</i></td></tr>
-<tr><td>🟢</td><td><b>Nexta</b> — Senior Frontend Developer</td><td align="right"><i>2021 – 2023</i></td></tr>
-<tr><td>🔵</td><td><b>OCCMundial</b> — Full Stack Developer</td><td align="right"><i>2018 – 2021</i></td></tr>
-<tr><td>🟡</td><td><b>NCTech</b> — Web Developer</td><td align="right"><i>2016 – 2017</i></td></tr>
-<tr><td>🟠</td><td><b>Innovation Workshop</b> — Web Developer</td><td align="right"><i>2015 – 2016</i></td></tr>
+<tr><td>🟣</td><td><b>Adeev</b> (Freelance) — Full Stack Developer</td><td align="right"><i>Nov 2016 – Actualidad</i></td></tr>
+<tr><td>🔵</td><td><b>OCCMundial</b> — Full Stack Developer</td><td align="right"><i>Oct 2023 – Oct 2024</i></td></tr>
+<tr><td>🟢</td><td><b>Nexta</b> — Senior Frontend Developer</td><td align="right"><i>Jul 2021 – Jul 2023</i></td></tr>
+<tr><td>🔵</td><td><b>OCCMundial</b> — Full Stack Developer</td><td align="right"><i>Ene 2018 – Jul 2021</i></td></tr>
+<tr><td>🟡</td><td><b>NCTech</b> — Desarrollador Web</td><td align="right"><i>Jun 2016 – Dic 2017</i></td></tr>
+<tr><td>🟠</td><td><b>Innovation Workshop (IW)</b> — Desarrollador Web</td><td align="right"><i>Ene 2015 – Jun 2016</i></td></tr>
 </table>
 
-🎓 &nbsp;B.S. en Tecnologías de la Información y Comunicación — Instituto Tecnológico de San Juan del Río
-🎓 &nbsp;Diplomado en Liderazgo Ejecutivo de Alto Impacto — Universidad Anáhuac
+🎓 &nbsp;Lic. en Tecnologías de la Información y Comunicación — Instituto Tecnológico de San Juan del Río &nbsp;<sub>*(2010 – 2015)*</sub>
+🎓 &nbsp;Diplomado en Desarrollo Gerencial de Alto Impacto — Universidad Anáhuac &nbsp;<sub>*(Sep 2023 – Mar 2024)*</sub>
 
 <br/>
 
