@@ -80,7 +80,7 @@
 <tr>
 <td width="50%">
 
-<img src="assets/volvo.png" width="100%"/>
+<img src="assets/volvo-company.png" width="100%"/>
 
 **🚗 VOLVO — Plataforma de facturación**
 <br/>
