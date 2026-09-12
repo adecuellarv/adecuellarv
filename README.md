@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:0b0f14&height=220&section=header&text=Adela%20Cuellar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20IA%20%C2%B7%20Automatizaci%C3%B3n&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C5CE7&center=true&vCenter=true&width=650&lines=10%2B+a%C3%B1os+construyendo+apps+web+y+m%C3%B3viles;PHP+%C2%B7+React+%C2%B7+Node.js+%C2%B7+.NET+%C2%B7+WordPress;Integrando+IA+(OpenAI%2C+Claude+Code)+en+producto" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C5CE7&center=true&vCenter=true&width=750&lines=M%C3%A1s+de+10+a%C3%B1os+creando+soluciones+digitales+escalables;Liderando+productos+de+punta+a+punta;Arquitectura%2C+IA+y+automatizaci%C3%B3n+con+impacto+de+negocio" />
 </a>
 
 <br/>
